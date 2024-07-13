@@ -7,14 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-🎓 Currently embarking on a Master's journey in Artificial Intelligence, fueled by a passion for the limitless possibilities of AI. With a strong foundation in Computer Science, I'm excited to delve deeper into the world of machine learning, deep learning, and cutting-edge AI technologies. Committed to exploring innovative solutions and contributing to the AI community. Let's connect and explore the future of AI together! 🚀 #AIEnthusiast #MastersinAI #ComputerScienceGrad.
+🎓 Currently embarking on a Master's journey in Artificial Intelligence, fueled by a passion for the limitless possibilities of AI. With a strong foundation in Computer Science, I'm excited to delve deeper into the world of machine learning, deep learning, and cutting-edge AI technologies. Committed to exploring innovative solutions and contributing to the AI community. Let's connect and explore the future of AI together! 🚀
+---
+#AIEnthusiast #MastersinAI #ComputerScienceGrad.
 
 Skills:
 ======
 • Programming Languages & Tools: Python, React, Node.js, Express.js, JavaScript, MySQL, MongoDB, PyTorch, TensorFlow,
 numpy, HTML, Postman, Firebase
+---
 • Frameworks & Technologies: Machine Learning, Data Analytics, Computer Vision, Multi-Camera Systems, Deep Learning
-• Systems: UNIX, LINUX, WINDOWS
+---
+• Systems: UNIX, LINUX
+---
 • Dissertation: "A Better Google Maps Service - Using Symbolic Regression to Improve Journey Planning.
 
 Getting started
