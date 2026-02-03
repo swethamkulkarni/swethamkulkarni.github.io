@@ -1,5 +1,20 @@
 const projects = [
   {
+  title: "Enterprise RAG-Based Policy Assistant",
+  img: "images/rag-chatbot.png", // You'll need to add an appropriate image
+  description: "Built an AI-powered chatbot using Retrieval-Augmented Generation (RAG) to answer employee onboarding queries from internal policy documents, streamlining the onboarding process and reducing HR workload.",
+  goals: "To automate employee onboarding by providing instant, accurate answers to policy questions, saving company time and improving new hire experience.",
+  problems: "Processing complex PDF documents, ensuring accurate information retrieval, and generating contextually relevant responses from internal policies.",
+  solution: "Implemented document ingestion pipeline with LangChain, stored embeddings in ChromaDB vector database, and leveraged LLaMA-3.3-70B for grounded response generation with real-time retrieval.",
+  outcome: "Created an efficient onboarding assistant that provides instant policy answers, reducing manual HR intervention and improving employee self-service capabilities.",
+  tags: ["RAG", "LLM", "Document Processing", "LangChain"],
+  metrics: {
+    accuracy: 88,
+    efficiency: 90,
+    impact: 85
+  }
+},
+  {
     title: "AI-Driven Sustainable Route Navigation",
     img: "images/route-navigation.png",
     description: "Developed an AI-driven app that optimizes travel routes for sustainability, integrating real-time traffic updates and eco-friendly travel modes like walking, cycling, and e-bus.",
